@@ -30,7 +30,7 @@ const NotesHero = () => {
         {/* Right Section - Image */}
         <div className="md:w-1/2 mt-10 md:mt-0 text-center relative z-10">
           <img
-            src="/bmc3.jpeg"
+            src=""
             alt="Notes illustration"
             className="adii-hero-image w-full md:w-3/4 lg:w-2/3 mx-auto rounded-lg shadow-xl"
           />

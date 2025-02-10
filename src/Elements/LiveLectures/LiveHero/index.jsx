@@ -31,7 +31,7 @@ const LiveLectureHero = () => {
             </Button></Link>
           </div>
         </div>
-          <span><img src="/bmc3.jpeg" width={"200px"} /></span>
+          <span><img src="" width={"200px"} /></span>
         {/* Right Section: Creative Icons */}
         <div className="relative flex justify-center items-center h-64 w-64 lg:h-80 lg:w-80">
           {/* Animated floating icons */}
